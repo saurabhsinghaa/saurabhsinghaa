@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Saurabh from India<br><br>- 🔭 I love working on Machine Learning and Full Stack Development<br>- 📚 I'm currently learning Natural Language Processing<br>- ⚡ In my free time I do Video Editing</p>
+<p align="left">I'm Saurabh from India<br><br>🔭 I love working on Machine Learning and Full Stack Development<br>📚 I'm currently learning Natural Language Processing<br>⚡ In my free time I do Video Editing</p>
 
 ###
 
